@@ -1,6 +1,6 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// David Rivera Cordoba
+// 000416335
+// david.rivera@upb.edu.co
 (START)
     @START
     0;JMP
